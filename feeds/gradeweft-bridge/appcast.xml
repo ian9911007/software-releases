@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>GradeWeft Bridge</title><item><title>0.3.0</title><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.3.0-b68/GradeWeft-Bridge-0.3.0-68.zip" length="6453811" type="application/octet-stream" sparkle:version="68" sparkle:shortVersionString="0.3.0" sparkle:edSignature="qFcnLX0dubEYfJ5z3gV9Pb7+FDce+PR0xPQIaE8FXtqItHKemGNEHEPbV3a3mktTMm8H/87whBe5hyN5hvqLAg==" /></item></channel></rss>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>GradeWeft Bridge</title>
+    <item>
+      <title>GradeWeft Bridge 0.3.0 (107) — Apple silicon</title>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.3.0-b107/GradeWeft-Bridge-0.3.0-107.zip" length="5333428" type="application/octet-stream" sparkle:version="107" sparkle:shortVersionString="0.3.0" sparkle:edSignature="K6nwgCCoAHK3v4TesykSNACDkwRVn6NLI/dr2hkjl6FUVbYk6Ty0zs/hLyaoOFZcGQqnSQ3uJIDjwL8C1jHiDQ==" />
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+    </item>
+  </channel>
+</rss>
