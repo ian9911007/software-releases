@@ -3,6 +3,12 @@
   <channel>
     <title>GradeWeft Bridge</title>
     <item>
+      <title>GradeWeft Bridge 0.3.0 (134) — Apple silicon</title>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.3.0-b134/GradeWeft-Bridge-0.3.0-134.zip" length="6632483" type="application/octet-stream" sparkle:version="134" sparkle:shortVersionString="0.3.0" sparkle:edSignature="wgwlE9j/oe4P4EL8HX71l+oqKGveIAmx2wo/AGO36KyxLP9ly3QAXdqARckS697JIP/RcRmXU2/B/XPxWywpDg==" />
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+    </item>
+    <item>
       <title>GradeWeft Bridge 0.3.0 (107) — Apple silicon</title>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.3.0-b107/GradeWeft-Bridge-0.3.0-107.zip" length="5333428" type="application/octet-stream" sparkle:version="107" sparkle:shortVersionString="0.3.0" sparkle:edSignature="K6nwgCCoAHK3v4TesykSNACDkwRVn6NLI/dr2hkjl6FUVbYk6Ty0zs/hLyaoOFZcGQqnSQ3uJIDjwL8C1jHiDQ==" />
