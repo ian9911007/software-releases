@@ -3,6 +3,13 @@
   <channel>
     <title>GradeWeft Bridge</title>
     <item>
+      <title>GradeWeft Bridge 0.4</title>
+      <description>切換單路、雙路及多路監看時保留原有畫面。改善有線連接、曲線辨識及調色手勢放開後的回報。</description>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.4-b186/GradeWeft-Bridge-0.4-186.zip" length="6836795" type="application/octet-stream" sparkle:version="186" sparkle:shortVersionString="0.4" sparkle:edSignature="1orV2XFLo8EsfvIlfuBjShPpdO1hq7c5i1HqZCRK95bEeN5Jtd5T1dry/QKM3WSx6P8vK0bKJfwILITlhp70Bw==" />
+    </item>
+    <item>
       <title>GradeWeft Bridge 0.3.0</title>
       <description>改善配對、LOG、監看及曲線恢復。色輪外環與旋鈕每圈對應各方向量程的 25%。</description>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
