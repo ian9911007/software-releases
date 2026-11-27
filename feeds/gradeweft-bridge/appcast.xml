@@ -3,6 +3,13 @@
   <channel>
     <title>GradeWeft Bridge</title>
     <item>
+      <title>GradeWeft Bridge 0.3.0</title>
+      <description>改善配對、LOG、監看及曲線恢復。色輪外環與旋鈕每圈對應各方向量程的 25%。</description>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.3.0-b166/GradeWeft-Bridge-0.3.0-166.zip" length="6790184" type="application/octet-stream" sparkle:version="166" sparkle:shortVersionString="0.3.0" sparkle:edSignature="EIo83jjkM/Ql/47VJAiZ/9XozbpNY78JMzXlmrzmOwWYHmhBsFceAsTdk3H773/pM+xK11bJghQCMHOJADY7Cg==" />
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+    </item>
+    <item>
       <title>GradeWeft Bridge 0.3.0 (134) — Apple silicon</title>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/ian9911007/software-releases/releases/download/gradeweft-bridge-v0.3.0-b134/GradeWeft-Bridge-0.3.0-134.zip" length="6632483" type="application/octet-stream" sparkle:version="134" sparkle:shortVersionString="0.3.0" sparkle:edSignature="wgwlE9j/oe4P4EL8HX71l+oqKGveIAmx2wo/AGO36KyxLP9ly3QAXdqARckS697JIP/RcRmXU2/B/XPxWywpDg==" />
